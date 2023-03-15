@@ -18,4 +18,9 @@ public class Human {
   public static void printHuman(String name){
     System.out.println("Человек по имени " + name);
   }
+
+  public static void greetings(){
+    System.out.println("Я родился!");
+  }
+
 }
