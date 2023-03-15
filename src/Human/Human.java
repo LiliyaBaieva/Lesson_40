@@ -15,11 +15,11 @@ public class Human {
     this.name = name;
   }
 
-  public static void printHuman(String name){
+  public void printHuman(String name){
     System.out.println("Человек по имени " + name);
   }
 
-  public static void greetings(){
+  public void greetings(){
     System.out.println("Я родился!");
   }
 
