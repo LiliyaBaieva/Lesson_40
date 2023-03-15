@@ -6,7 +6,7 @@ public class Woman extends Human{
   }
   @Override
   public void printHuman(String name){
-    super.printHuman("Женщина по имени " + name);
+    System.out.println("Женщина по имени " + name);
   }
 
   @Override

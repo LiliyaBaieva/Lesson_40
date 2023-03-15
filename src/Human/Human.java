@@ -19,7 +19,7 @@ public class Human {
     System.out.println("Человек по имени " + name);
   }
 
-  public void greetings(){
+  public  void greetings(){
     System.out.println("Я родился!");
   }
 
